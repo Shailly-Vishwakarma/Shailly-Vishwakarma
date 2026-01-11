@@ -30,22 +30,3 @@ Recently, I completed my **first hackathon project**, and this is just the begin
 ### ⚡ Fun Fact
 - My first hackathon made me fall in love with building projects 💻💙  
   And yes… editing videos is my creative escape 🎥✨
-
-Hi 👋, I'm Asif Taj
-🔭 I’m currently working on Flutter
-🌱 I’m currently learning Backend
-💬 Ask me anything about Flutter
-📫 How to reach me: axiftaj@gmail.com
-😄 My website: https://thetechbrothers.net
-⚡ Fun fact: I'm comming to teen
-Connect with me:
-Github Badge Youtube Badge Instagram Badge Facebook Badge Twitter Badge
-Languages and Tools:
-My Skills
-
-Asif Taj's GitHub stats
-
-Top Langs
-
-
-⭐️ From [axiftaj](https://github.com/axiftaj)
