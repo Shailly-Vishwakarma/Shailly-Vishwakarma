@@ -12,6 +12,15 @@ Recently, I completed my **first hackathon project**, and this is just the begin
 - 🎬 Also learning & interested in: **Video Editing & Visual Storytelling**
 - ✨ Exploring how tech + creativity can create impactful solutions
 
+## 🎓 Education
+
+- 🎓 **B.Sc. (Hons) Computer Science**  
+  🏫 University of Delhi — *On-Campus Academic Program*
+
+- 🤖 **BS in Artificial Intelligence & Data Science**  
+  🏫 IIT Jodhpur — *Remote & Technology-Driven Program*
+📌 *Exploring computer science and artificial intelligence through a structured dual-degree academic pathway.*
+
 ### 🤝 Let’s Collaborate
 - 🤝 Open to beginner-friendly hackathons & creative tech projects  
 - 🧠 Looking for help with: **Backend, Cloud & scalable systems**
