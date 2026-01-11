@@ -19,6 +19,7 @@ Recently, I completed my **first hackathon project**, and this is just the begin
 
 - 🤖 **BS in Artificial Intelligence & Data Science**  
   🏫 IIT Jodhpur — *Remote & Technology-Driven Program*
+  
 📌 *Exploring computer science and artificial intelligence through a structured dual-degree academic pathway.*
 
 ### 🤝 Let’s Collaborate
